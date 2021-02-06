@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "634329822559",
+    "project_id": "moteljh",
+    "storage_bucket": "moteljh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:634329822559:android:f7e98747269f6756f232ea",
+        "android_client_info": {
+          "package_name": "com.rennepluss.shopjh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "634329822559-v4pvjf899qc1rcp6at44b5211esaubnc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rennepluss.shopjh",
+            "certificate_hash": "8d5cb981f04d9046dd4b54e590ea0edf0d9a9924"
+          }
+        },
+        {
+          "client_id": "634329822559-daarldb5cpbt2ae099i6d7gc941d6or1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfV7GaMNcBaGnTG7eVgTKOV1Rs4Eq8m54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "634329822559-daarldb5cpbt2ae099i6d7gc941d6or1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
